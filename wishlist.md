@@ -6,3 +6,4 @@ Things listed here are technical reading I wish I had time to get to. My goal is
 - [Using IDAPython to Make Your Life Easier: Part 1](http://researchcenter.paloaltonetworks.com/2015/12/using-idapython-to-make-your-life-easier-part-1/)
 - [Using IDAPython to Make Your Life Easier: Part 2](http://researchcenter.paloaltonetworks.com/2015/12/using-idapython-to-make-your-life-easier-part-2/)
 - [Using IDAPython to Make Your Life Easier: Part 3](http://researchcenter.paloaltonetworks.com/2016/01/using-idapython-to-make-your-life-easier-part-3/)
+- [JTAG Explained (finally!)](http://blog.senr.io/blog/jtag-explained)
