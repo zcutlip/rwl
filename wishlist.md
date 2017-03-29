@@ -7,3 +7,4 @@ Things listed here are technical reading I wish I had time to get to. My goal is
 - [Using IDAPython to Make Your Life Easier: Part 2](http://researchcenter.paloaltonetworks.com/2015/12/using-idapython-to-make-your-life-easier-part-2/)
 - [Using IDAPython to Make Your Life Easier: Part 3](http://researchcenter.paloaltonetworks.com/2016/01/using-idapython-to-make-your-life-easier-part-3/)
 - [JTAG Explained (finally!)](http://blog.senr.io/blog/jtag-explained)
+- [Racing for everyone: descriptor describes TOCTOU in Apple's core](http://keenlab.tencent.com/en/2017/01/09/Racing-for-everyone-descriptor-describes-TOCTOU-in-Apple-s-core/)
