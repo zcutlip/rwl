@@ -18,3 +18,4 @@ Things listed here are technical reading I wish I had time to get to. My goal is
 - [Binamuse Blog: About Shellcodes in C](http://blog.binamuse.com/2013/01/about-shellcodes-in-c.html)
 - [Malloc Des-Maleficaru](http://phrack.org/issues/66/10.html)
 - [Mathy Vanhoef: Understanding the Heap & Exploiting Heap Overflows ](http://www.mathyvanhoef.com/2013/02/understanding-heap-exploiting-heap.html?m=1)
+- [Chrome Oilpan - Meta Data, Freelists and more](http://struct.github.io/oilpan_metadata.html)
