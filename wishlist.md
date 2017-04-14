@@ -27,3 +27,4 @@ Things listed here are technical reading I wish I had time to get to. My goal is
 - [The Objective-C Runtime:  Understanding and Abusing](http://phrack.org/issues/66/4.html#article)
 - [Modern Objective-C Exploitation Techniques](http://phrack.org/issues/69/9.html#article)
 - [Revisiting Mac OS X Kernel Rootkits](http://phrack.org/issues/69/7.html#article)
+- [XNU kernel UaF due to lack of locking in set_dp_control_port](https://bugs.chromium.org/p/project-zero/issues/detail?id=965#c10)
