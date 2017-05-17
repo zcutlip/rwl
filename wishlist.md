@@ -28,3 +28,5 @@ Things listed here are technical reading I wish I had time to get to. My goal is
 - [Modern Objective-C Exploitation Techniques](http://phrack.org/issues/69/9.html#article)
 - [Revisiting Mac OS X Kernel Rootkits](http://phrack.org/issues/69/7.html#article)
 - [XNU kernel UaF due to lack of locking in set_dp_control_port](https://bugs.chromium.org/p/project-zero/issues/detail?id=965#c10)
+- [Runtime Kernel Patching on Mac OS X](https://defcon.org/images/defcon-17/dc-17-presentations/defcon-17-bosse_eriksson-kernel_patching_on_osx.pdf)
+- [Nozzle: A Defense Against Heap-spraying Code Injection Attacks](https://www.microsoft.com/en-us/research/publication/nozzle-a-defense-against-heap-spraying-code-injection-attacks/)
