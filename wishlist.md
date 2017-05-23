@@ -31,3 +31,4 @@ Things listed here are technical reading I wish I had time to get to. My goal is
 - [Runtime Kernel Patching on Mac OS X](https://defcon.org/images/defcon-17/dc-17-presentations/defcon-17-bosse_eriksson-kernel_patching_on_osx.pdf)
 - [Nozzle: A Defense Against Heap-spraying Code Injection Attacks](https://www.microsoft.com/en-us/research/publication/nozzle-a-defense-against-heap-spraying-code-injection-attacks/)
 - [Ode to the use-after-free: one vulnerable function, a thousand possibilities](https://scarybeastsecurity.blogspot.com/2017/05/ode-to-use-after-free-one-vulnerable.html)
+- [muymacho - exploiting DYLD_ROOT_PATH](https://luismiras.github.io/muymacho-exploiting_DYLD_ROOT_PATH/)
