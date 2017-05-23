@@ -30,3 +30,4 @@ Things listed here are technical reading I wish I had time to get to. My goal is
 - [XNU kernel UaF due to lack of locking in set_dp_control_port](https://bugs.chromium.org/p/project-zero/issues/detail?id=965#c10)
 - [Runtime Kernel Patching on Mac OS X](https://defcon.org/images/defcon-17/dc-17-presentations/defcon-17-bosse_eriksson-kernel_patching_on_osx.pdf)
 - [Nozzle: A Defense Against Heap-spraying Code Injection Attacks](https://www.microsoft.com/en-us/research/publication/nozzle-a-defense-against-heap-spraying-code-injection-attacks/)
+- [Ode to the use-after-free: one vulnerable function, a thousand possibilities](https://scarybeastsecurity.blogspot.com/2017/05/ode-to-use-after-free-one-vulnerable.html)
