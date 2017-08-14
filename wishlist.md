@@ -34,3 +34,4 @@ Things listed here are technical reading I wish I had time to get to. My goal is
 - [muymacho - exploiting DYLD_ROOT_PATH](https://luismiras.github.io/muymacho-exploiting_DYLD_ROOT_PATH/)
 - [Dhaval Kapil\'s "Heap Exploitation" GitBook](https://www.gitbook.com/book/dhavalkapil/heap-exploitation/details)
 - [Introduction To Arm Assembly Basics](https://azeria-labs.com/writing-arm-assembly-part-1/)
+- [Exploitations of Uninitialized Uses on macOS Sierra [PDF]](https://www.usenix.org/system/files/conference/woot17/woot17-paper-xu.pdf)
