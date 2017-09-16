@@ -35,3 +35,4 @@ Things listed here are technical reading I wish I had time to get to. My goal is
 - [Dhaval Kapil\'s "Heap Exploitation" GitBook](https://www.gitbook.com/book/dhavalkapil/heap-exploitation/details)
 - [Introduction To Arm Assembly Basics](https://azeria-labs.com/writing-arm-assembly-part-1/)
 - [Exploitations of Uninitialized Uses on macOS Sierra [PDF]](https://www.usenix.org/system/files/conference/woot17/woot17-paper-xu.pdf)
+- [https://comsecuris.com/blog/posts/vmware_vgpu_shader_vulnerabilities](Wandering through the Shady Corners of VMware Workstation/Fusion)
