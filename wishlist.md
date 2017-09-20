@@ -34,3 +34,4 @@ Things listed here are technical reading I wish I had time to get to. My goal is
 - [muymacho - exploiting DYLD_ROOT_PATH](https://luismiras.github.io/muymacho-exploiting_DYLD_ROOT_PATH/)
 - [Dhaval Kapil\'s "Heap Exploitation" GitBook](https://www.gitbook.com/book/dhavalkapil/heap-exploitation/details)
 - [Introduction To Arm Assembly Basics](https://azeria-labs.com/writing-arm-assembly-part-1/)
+- [ziVA: Zimperium’s iOS Video Audio Kernel Exploit](https://blog.zimperium.com/ziva-video-audio-ios-kernel-exploit/)
